@@ -1,42 +1,34 @@
 <?php
 $today;
+//if the variable $today is set to "Monday"....
+//the output is "Upper body weight training | 2-mile jog"
 switch($today){
-	case: "Monday";
+	case "Monday":
 	echo "Upper body weight training | 2-mile jog";
 	break; 
 	
-switch($today){
-	case: "Tuesday";
+	case "Tuesday":
 	echo "Lower body weight training (quads) | 2-mile walk";
 	break; 
-}
 
-switch($today){
-	case:"Wednesday";
+	case "Wednesday":
 	echo "Amino Acids supplement | 5 miles on bike";
 	break; 
 
-}
-
-switch($today){
-	case: "Thursday";
+	case "Thursday":
 	echo "Upper body workout | 2-mile jog";
 	break;
-}
-
-switch($today){
-	case: "Friday";
+	
+	case "Friday":
 	echo "Upper body workout | 2-mile jog";
 	break; 
-}
 
-switch($today){
-	case: "Saturday";
+	case "Saturday":
 	echo "Rest day | 1 Hour Stretching";
 	break; 
-}
-
-default: 
-	echo: "No information available for that day..."
+	//if a case for the $today is set to anything other than what's listed
+	//Monday - Friday, the content below will output
+	default: 
+	echo "No information available for that day...";
 	break;
 }?>
