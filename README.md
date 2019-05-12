@@ -1,6 +1,6 @@
-### PHP-Tutorial | Basis
+### PHP-Tutorial | Basics | Tutorial Republic
 
-[Notes and Code Exercises](www.tutorialrepublic.com/php-tutorial)
+[Link to Tutorial](www.tutorialrepublic.com/php-tutorial)
 
 **Topics Covered**
 
