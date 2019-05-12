@@ -1,2 +1,4 @@
-# PHP-Tutorial-
-Notes and code exercises from www.tutorialrepublic.com
+### PHP-Tutorial
+
+[Notes and Code Exercises(www.tutorialrepublic.com/php-tutorial)
+
